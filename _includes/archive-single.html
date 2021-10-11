@@ -37,6 +37,9 @@
     <p>
       {{post.authors}}<br />
       <span style="color: #808080;">{{post.venue}}</span>
+      {% if post.note %}
+      <br /><span style="color: #808080;">{{post.note}}</span>
+      {% endif %}
     </p>
 
     {% if post.media1 %}

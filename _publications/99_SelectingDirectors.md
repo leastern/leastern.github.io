@@ -1,9 +1,10 @@
 ---
 title: "Selecting Directors Using Machine Learning"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3144080"
 date: 2015-10-01
 venue: 'The Review of Financial Studies, 2021 Apr, pp. 3226-3264'
+note: 'Leading Article RFS'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 authors: 'Isil Erel, Léa H Stern, Chenhao Tan, Michael S Weisbach'
 media1: 'Harvard Business Review'
