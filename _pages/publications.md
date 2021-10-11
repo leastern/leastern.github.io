@@ -15,8 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<div class="archive">
-    <h1 class="page__title">Working Papers</h1>
+<div class="wrapper">
+    <h1 class="page__title" itemprop="headline">
+    Working Papers
+    </h1>
 </div>
 
 {% for post in site.workingpapers reversed %}
