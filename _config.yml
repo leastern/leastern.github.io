@@ -182,6 +182,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  workingpapers:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
