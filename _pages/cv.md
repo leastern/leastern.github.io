@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <iframe
-    src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://leastern.github.io/files/leastern_resume.pdf#toolbar=0&scrollbar=0"
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://leastern.github.io/files/leastern_resume.pdf#toolbar=0&scrollbar=0"
     frameBorder="1"
     scrolling="auto"
     height="800px"
