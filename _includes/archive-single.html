@@ -40,13 +40,14 @@
     </p>
 
     {% if post.media1 %}
-    <p><small>
-    <span style="color: #000000;">
-      {{post.media1}}<br />
-      <a href="https://corpgov.law.harvard.edu/2018/04/09/selecting-directors-using-machine-learning/">Harvard Law School Forum on Corporate Governance and Financial Regulation</a><br />
-      Die Zeit<em><br /></em>
+    <p>
+      Media Coverage:<br />
+    <span style="color: #909090;">
+      <a href={{post.media1_link}}> {{post.media1}} </a><br />
+      <a href={{post.media2_link}}> {{post.media2}} </a><br />
+      <a href={{post.media3_link}}> {{post.media3}} </a><br />
     </span>
-    </small></p>
+    </p>
     {% endif %}
 
     {% if post.read_time %}
