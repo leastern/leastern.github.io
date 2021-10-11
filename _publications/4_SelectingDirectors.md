@@ -3,7 +3,7 @@ title: "Selecting Directors Using Machine Learning"
 collection: publications
 link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3144080"
 venue: 'The Review of Financial Studies, 2021 Apr, pp. 3226-3264'
-note: '* Lead Article and Editor Choice'
+note: '* Lead Article and Editor's Choice'
 authors: 'Isil Erel, Léa H Stern, Chenhao Tan, Michael S Weisbach'
 media1: 'Harvard Business Review'
 media1_link: 'https://hbr.org/2018/04/research-could-machine-learning-help-companies-select-better-board-directors'
