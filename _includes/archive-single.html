@@ -47,8 +47,12 @@
       Featured in:<br />
     <span style="color: #909090;">
       <a href="{{ post.media1_link }}"> {{post.media1}} </a><br />
+      {% if post.media2 %}
       <a href="{{ post.media2_link }}"> {{post.media2}} </a><br />
+      {% endif %}
+      {% if post.media3 %}
       <a href="{{ post.media3_link }}"> {{post.media3}} </a><br />
+      {% endif %}
     </span>
     </p>
     {% endif %}
