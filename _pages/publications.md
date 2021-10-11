@@ -16,7 +16,6 @@ author_profile: true
 {% endfor %}
 
 <br/>
-<br/>
 
 <header>
 <h1 class="page__title" itemprop="headline">Working Papers</h1>
