@@ -13,6 +13,6 @@ redirect_from:
     src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://leastern.github.io/files/leastern_resume.pdf#toolbar=0&scrollbar=0"
     frameBorder="1"
     scrolling="auto"
-    height="400px"
+    height="800px"
     width="100%">
 </iframe>
