@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the Finance and Business Economics Department at the Foster School of Business, University of Washington.
 
-My research interests span a variety of areas in corporate finance. I have written papers on corporate governance (with an emphasis on boards of directors), private equity and D&O insurance.
+My research interests span a variety of areas in corporate finance. I have written papers on corporate governance, private equity and D&O insurance.
 
 My current research leverages machine learning prediction methods to study economic agents' decision making.
 
