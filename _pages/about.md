@@ -12,6 +12,6 @@ I am an Assistant Professor in the Finance and Business Economics Department at 
 
 My research interests span a variety of areas in corporate finance. I have written papers on corporate governance, private equity and D&O insurance.
 
-My current research leverages machine learning prediction methods to study economic agents' decision making.
+My current research leverages machine learning prediction methods to study inefficiencies in economic agents' decision making.
 
 I am joining the <a href="https://www.abfr-forum.org/">AI & Big Data in Finance Research Forum</a> as co-organizer starting in Dec. 2022.
