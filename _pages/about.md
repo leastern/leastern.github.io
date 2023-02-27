@@ -16,4 +16,4 @@ My current research leverages machine learning prediction methods to study ineff
 
 I am co-organizing the <a href="https://www.abfr-forum.org/">AI & Big Data in Finance Research Forum</a>.
 
-In 2023, I will be visiting scholar at the <a href="https://allenai.org/">Allen Institute for Artificial Intelligence (AI2)</a> (joint appointment with UW).
+I am visiting scholar at the <a href="https://allenai.org/">Allen Institute for Artificial Intelligence (AI2)</a> (joint appointment with UW).
