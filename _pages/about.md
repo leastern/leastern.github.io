@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Finance and Business Economics Department at the Foster School of Business, University of Washington and visiting scholar at the <a href="https://allenai.org/">Allen Institute for Artificial Intelligence (AI2)</a>.
+I am an Assistant Professor in the Finance and Business Economics Department at the Foster School of Business, University of Washington.
 
 My research interests span a variety of areas in corporate finance and private equity.
 
