@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Finance and Business Economics Department at the Foster School of Business, University of Washington and Carol Batchelder Finance Faculty Fellow.
+I am an Assistant Professor in the Finance and Business Economics Department at the Foster School of Business, University of Washington and Carol Batchelder Endowed Finance Faculty Fellow.
 
 My research interests span a variety of areas in corporate finance and private equity.
 
