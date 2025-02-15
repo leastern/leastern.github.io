@@ -2,7 +2,7 @@
 title: "Paid Leave Pays Off: The Effects of Paid Family Leave on Firm Performance"
 collection: workingpapers
 link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3490645"
-venue: 'Conference presentations: ECWFC at the WFA, the Pacific Northwest Finance Conference, 2020 AFA annual meeting, 2020 EFA annual meeting, 2021 SFS Cavalcade, 2022 Weinberg Center Corporate Governance Symposium'
+venue: 'Revise and Resubmit at the Review of Finance'
 authors: 'Ben Bennett, Isil Erel, Jesse Wang, Léa H. Stern'
 note: "* Finalist for the John L. Weinberg/IRRCi Research Award, 2022"
 media1: 'Forbes'
