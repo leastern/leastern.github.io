@@ -2,7 +2,7 @@
 title: "Selecting Directors Using Machine Learning"
 collection: publications
 link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3144080"
-venue: 'The Review of Financial Studies, 2021 Apr, pp. 3226-3264'
+venue: 'The Review of Financial Studies, 2021, pp. 3226-3264'
 note: "* Lead Article and Editor's Choice"
 authors: 'Isil Erel, Léa H Stern, Chenhao Tan, Michael S Weisbach'
 media1: 'Harvard Business Review'
