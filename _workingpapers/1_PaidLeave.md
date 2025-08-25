@@ -8,5 +8,5 @@ media1: 'Forbes'
 media1_link: 'https://www.forbes.com/sites/bhaktimirchandani/2021/01/05/what-i-wish-i-had-learned-about-investing-at-harvard-business-school-wellbeing-and-risk-adjusted-returns/?sh=21442b362547'
 media2: 'Grow the Pie Blog by Alex Edmans'
 media2_link: 'https://www.growthepie.net/paid-family-leave-improves-firm-productivity/'
-note: 'Revise and Resubmit at the Review of Finance'
+note: 'Conditionally accepted at the Review of Finance'
 ---
